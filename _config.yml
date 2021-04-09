@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: Kieren Beckett Software Consulting
 description: Specialising in DevOps, AWS/GCP and Python
 logo: logo.png
+github:
+  is_project_page: false
